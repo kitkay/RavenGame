@@ -1,4 +1,5 @@
 # RavenGame
+Technologies: CANVAS, VanillaJS, CSS/HTML
 basic raven game with pure javascript without the help of lbraries and ready made frameworks
  
 This is utilizes vanilla javascript and html/css only.
